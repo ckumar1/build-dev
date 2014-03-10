@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories SYSTEM "../dtd/categories.dtd">
+<categories>
+	
+	<category name="Conte 3" abrv="C3" filename="conte3">
+		
+		<form name="C3 Tracker" abrv="c3tracker" filename="c3tracker" />
+		<form name="Caregiver Interview-Twin" abrv="CGinterviewtwin" filename="c3cginterviewtwin" />
+		
+		<subcategory name="Twin Mailed Interview" abrv="c3twininterview" filename="c3twininterview">
+					<form name="Part 1 - Behavior" abrv="c3bt" filename="c3twinbehavior" />
+					<form name="Part 2A - Girl Puberty" abrv="c3petersonindextwingirltanner" filename="c3petersonindextwingirltanner" />
+					<form name="Part 2B - Boy Puberty" abrv="c3petersonindextwinboytanner" filename="c3petersonindextwinboytanner" />
+		</subcategory>
+		
+	</category>
+
+
+</categories>
+

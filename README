@@ -1,0 +1,12 @@
+This is a subset of the entire collection of XML files that are used to build the actual forms on Jforms.
+
+There are several different types of XML files in jForms
+
+Most used Folders
+- Forms
+- Datasets
+- Categories
+
+Special XML Files
+- categories.xml -- structure of the menu folders and forms (Note: each form must be added here to be accessible)
+- datasets.xml -- list of all the datasets used
